@@ -1,0 +1,225 @@
+{
+  "brand": {
+    "name": "Elyvex Nexus",
+    "tagline": "Empowering Skills. Building Futures."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "courses": "Courses",
+    "resources": "Resources",
+    "projectLab": "Project Lab",
+    "whyUs": "Why Elyvex Nexus",
+    "team": "Team",
+    "announcements": "Announcements",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "exploreCourses": "Explore Courses",
+    "joinUs": "Join Elyvex Nexus",
+    "verifyCert": "Verify Certificate"
+  },
+  "hero": {
+    "badge": "Practical Tech Education & Innovation",
+    "title": "Empowering Skills. Building Futures.",
+    "subtitle": "Elyvex Nexus is an education-focused technology initiative designed to help students learn practical skills, build real projects, strengthen problem-solving abilities, and prepare for future opportunities.",
+    "primaryCta": "Explore Courses",
+    "secondaryCta": "Explore Project Lab",
+    "stats": {
+      "learners": "Practical First",
+      "projects": "Real-World Projects",
+      "mentorship": "Industry Oriented",
+      "ecosystem": "Future-Ready Architecture"
+    }
+  },
+  "trust": {
+    "practical": "Practical Learning",
+    "projects": "Real Projects",
+    "skills": "Skill Development",
+    "industry": "Industry-Oriented Practice",
+    "certificates": "Recognized Certificates",
+    "future": "Future Opportunities"
+  },
+  "aboutPreview": {
+    "badge": "Our Philosophy",
+    "title": "Learning Beyond the Classroom",
+    "description": "Elyvex Nexus focuses on actionable, hands-on learning rather than purely theoretical memorization. Through industry-relevant modules, structured milestones, and continuous coding practice, we guide students from foundational understanding to real-world capability.",
+    "points": [
+      "Structured, up-to-date curricula covering modern tech stacks",
+      "Hands-on coding tasks, real repositories, and active builds",
+      "Continuous performance feedback and milestone reviews",
+      "Recognized certificates linked to verifiable project deliverables"
+    ],
+    "cta": "Discover Elyvex Nexus"
+  },
+  "offerings": {
+    "badge": "Comprehensive Capabilities",
+    "title": "What We Provide",
+    "subtitle": "A complete, modular pathway engineered to bridge the gap between classroom theory and real engineering standards.",
+    "cards": {
+      "courses": {
+        "title": "Courses",
+        "description": "Structured technical learning programs designed for students to master modern stacks."
+      },
+      "projects": {
+        "title": "Practical Projects",
+        "description": "Build production-like applications with version control, testing, and modern deployment."
+      },
+      "lab": {
+        "title": "Coding Practice",
+        "description": "Practice algorithmic and real-world programming problems through the Elyvex Project Lab."
+      },
+      "resources": {
+        "title": "Learning Resources",
+        "description": "Access curated technical documentation, cheat-sheets, and architectural guides."
+      },
+      "assessments": {
+        "title": "Assessments",
+        "description": "Quizzes, code reviews, milestone projects, and transparent performance tracking."
+      },
+      "certificates": {
+        "title": "Certificates",
+        "description": "Earn tamper-proof completion certificates backed by verifiable student work."
+      }
+    }
+  },
+  "courses": {
+    "badge": "Structured Programs",
+    "title": "Featured Learning Programs",
+    "subtitle": "Carefully designed courses focused on practical software craftsmanship, modern engineering, and problem solving.",
+    "viewAll": "View All Courses",
+    "viewCourse": "View Course",
+    "duration": "Duration",
+    "level": "Level",
+    "projectsIncluded": "Includes Projects",
+    "certIncluded": "Certificate Included",
+    "registerCta": "Register for Course",
+    "searchPlaceholder": "Search by course title, skill, or technology...",
+    "allCategories": "All Categories",
+    "filterLevel": "All Levels"
+  },
+  "whyUs": {
+    "badge": "Our Values & Methodology",
+    "title": "Why Elyvex Nexus",
+    "subtitle": "Built with high standards of technical rigor, clarity, and dedication to genuine student capability.",
+    "cards": {
+      "practical": {
+        "title": "Practical First",
+        "desc": "Students apply every concept directly in code, tools, and environments from day one."
+      },
+      "project": {
+        "title": "Project Driven",
+        "desc": "Every track culminates in deployable, portfolio-grade projects with real utility."
+      },
+      "skill": {
+        "title": "Skill Focused",
+        "desc": "We prioritize foundational and in-demand technical problem-solving capabilities."
+      },
+      "structured": {
+        "title": "Structured Learning",
+        "desc": "Clear, progressive roadmaps that eliminate confusion and maintain momentum."
+      },
+      "growth": {
+        "title": "Continuous Growth",
+        "desc": "Encouraging curiosity, debugging discipline, and consistent self-improvement."
+      },
+      "career": {
+        "title": "Career Preparation",
+        "desc": "Equipping learners with genuine competency and readiness for internships and industry roles."
+      }
+    }
+  },
+  "learningJourney": {
+    "badge": "The Roadmap",
+    "title": "The Elyvex Learning Journey",
+    "subtitle": "A transparent step-by-step framework taking learners from discovery to demonstrated mastery.",
+    "steps": [
+      { "title": "Discover", "desc": "Explore modern technology domains and find your ideal learning path." },
+      { "title": "Learn", "desc": "Grasp foundational concepts through clear, structured lessons." },
+      { "title": "Practice", "desc": "Solve focused programming challenges and build muscle memory." },
+      { "title": "Build", "desc": "Develop end-to-end applications solving authentic real-world problems." },
+      { "title": "Evaluate", "desc": "Receive code reviews, feedback, and performance assessments." },
+      { "title": "Certify", "desc": "Earn verifiable credentials reflecting project completion." },
+      { "title": "Grow", "desc": "Transition into internships, open source, and advanced career milestones." }
+    ]
+  },
+  "projectLab": {
+    "badge": "Interactive Environment",
+    "title": "Practice. Solve. Build.",
+    "subtitle": "The future Elyvex Project Lab will provide an interactive environment where students can practice coding, solve programming challenges, work on real projects, track performance, and sharpen technical problem-solving skills.",
+    "features": [
+      "Multi-language coding sandbox (Python, JavaScript, Java, C++)",
+      "Progressive problem sets from algorithmic fundamentals to system tasks",
+      "Milestone-based project workflows with git version control",
+      "Transparent performance tracking, badges, and learning analytics",
+      "AI-guided hints and contextual debugging assistance"
+    ],
+    "cta": "Explore Project Lab"
+  },
+  "resources": {
+    "badge": "Open Knowledge",
+    "title": "Curated Technical Resources",
+    "subtitle": "SEO-friendly guides, programming notes, and technical cheat-sheets built for fast learning and reference.",
+    "readResource": "Read Resource",
+    "searchPlaceholder": "Search resources, guides, notes...",
+    "publishedOn": "Published",
+    "readingTime": "min read"
+  },
+  "team": {
+    "badge": "Leadership & Vision",
+    "title": "Our Founding Team",
+    "subtitle": "Passionate technologists, educators, and leaders dedicated to building practical EdTech infrastructure."
+  },
+  "faq": {
+    "badge": "Clarity & Help",
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Elyvex Nexus, our courses, the Project Lab, and verification.",
+    "searchPlaceholder": "Search questions..."
+  },
+  "contact": {
+    "badge": "Get in Touch",
+    "title": "Contact Elyvex Nexus",
+    "subtitle": "Have questions about our programs, partnerships, or upcoming courses? Reach out to our team.",
+    "form": {
+      "name": "Full Name",
+      "email": "Email Address",
+      "subject": "Subject",
+      "message": "Message",
+      "namePlaceholder": "e.g., Alex Johnson",
+      "emailPlaceholder": "alex@example.com",
+      "subjectPlaceholder": "Inquiry regarding courses...",
+      "messagePlaceholder": "Tell us how we can help you...",
+      "submit": "Send Message",
+      "submitting": "Sending Message...",
+      "success": "Thank you! Your message has been received. Our team will get back to you shortly.",
+      "error": "Failed to send message. Please check the fields or try again later."
+    },
+    "info": {
+      "emailTitle": "Official Email",
+      "locationTitle": "Location",
+      "socialTitle": "Connect With Us"
+    }
+  },
+  "footer": {
+    "description": "Elyvex Nexus is an education-focused technology company dedicated to practical skills, hands-on projects, recognized certifications, and future opportunities.",
+    "rights": "All rights reserved.",
+    "colCompany": "Company",
+    "colLearning": "Learning",
+    "colSupport": "Support",
+    "colSocial": "Connect"
+  },
+  "legal": {
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "cookie": "Cookie Policy"
+  },
+  "common": {
+    "backHome": "Go Home",
+    "exploreCourses": "Explore Courses",
+    "learnMore": "Learn More",
+    "share": "Share",
+    "all": "All",
+    "verified": "Verified",
+    "status": "Status",
+    "date": "Date"
+  }
+}
